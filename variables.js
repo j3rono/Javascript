@@ -1,5 +1,4 @@
 // TASK ONE: interptrated vs compiled
-//TASK TWO:
 
 // variables are used to store data that can be used throughout the application.
 //they can be used to store configuration settings, user preferences, or any other data that needs to be accessed globally.
@@ -33,3 +32,20 @@ let darkMode = false;
 // let variables can be reassigned, but const cannot be reassigned.
 age=31;
 pi=3.14159;
+
+
+// TASK TWO: Explain variable naming rules and conventions in JavaScript.
+
+/** variable naming rules in Javascript
+ * 
+ * 1. Variable names must start with a letter, dollar sign, and underscore.
+ * 2 variable names can contain letters, numbers, dollar signs, and underscores.
+ * 3. Variable names are case-sensitive.
+ * 4. Reserved keywords cannot be used as variable names.
+ */
+
+// Variable naming conventions in Javascript
+// 1. Use CamelCase for variable names  [e.g., 'myVariableName']
+// 2. PascalCase
+// 3. Snake_case
+
